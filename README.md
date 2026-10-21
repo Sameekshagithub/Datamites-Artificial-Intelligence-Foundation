@@ -57,22 +57,6 @@ The repository is organized into six modules, with theoretical concepts presente
 - Word Embeddings
 - AI Ethics and Responsible AI
 
-## 📂 Repository Structure
-
-```text
-DATAMITES-ARTIFICIAL-INTELLIGENCE-FOUNDATION/
-│
-├── README.md
-├── Module-1-AI-Overview.pptx
-├── Module-2-Deep-Learning-Introduction.pptx
-├── Module-3-TensorFlow-Foundation.pptx
-├── Module-4-Computer-Vision-Introduction.pptx
-├── Module-5-Natural-Language-Processing.pptx
-└── Module-6-AI-Ethics-and-Concerns.pptx
-```
-
-*Note: The filenames above are suggested examples. Replace them with the actual filenames you upload.*
-
 ## 🎯 Learning Objectives
 
 - Understand the fundamentals and evolution of Artificial Intelligence.
