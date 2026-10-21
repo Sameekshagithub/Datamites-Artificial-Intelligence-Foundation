@@ -1,4 +1,4 @@
-# DATAMITES – ARTIFICIAL INTELLIGENCE FOUNDATION
+# Datamites-Artificial-Intelligence-Foundation
 
 ## 📌 Overview
 
